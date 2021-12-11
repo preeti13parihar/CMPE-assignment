@@ -4,7 +4,7 @@
 
 **Kmeans from scratch**
 
-![](a.png)
+![](b.png)
 
 **Dataset - Yelp Restaurants**
 
