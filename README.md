@@ -26,19 +26,32 @@ DBSCAN: DBSCAN fits the model on the training dataset and predicts a cluster for
 
 ## Gradient Boost Methods:
 
-**Objective**: Demonstrate Gradient Boost Methods With Proper Results And Visualizations
+The Gradient Boosting Machine is a powerful ensemble machine learning algorithm that uses decision trees.
+
+Boosting is a general ensemble technique that involves sequentially adding models to the ensemble where subsequent models correct the performance of prior models. AdaBoost was the first algorithm to deliver on the promise of boosting.
+
+Gradient boosting is a generalization of AdaBoosting, improving the performance of the approach and introducing ideas from bootstrap aggregation to further improve the models, such as randomly sampling the samples and features when fitting ensemble members.
+
+Gradient boosting performs well, if not the best, on a wide range of tabular datasets, and versions of the algorithm like XGBoost and LightBoost often play an important role in winning machine learning competitions.
+
+Demonstrated Gradient Boost Methods With Proper Results And Visualizations
+
 **Showcase GBM Classifier Techniques**
-**RandomForest Classifier
+
+RandomForest Classifier
 Decision Tree Classifier
 AdaBoost Classifier
 XGBoost Classifier
 LightGBM Classifier
 Catboost Classifier
-Showcase GBM Regression Techniques
+
+**Showcase GBM Regression Techniques**
+
 XGBoostRegressor
 CatboostRegressor
 LightGBMRegressor
-Showcase GBM Ranking Techniques
+**Showcase GBM Ranking Techniques**
+
 XGBoost Ranking
 Catboost Ranking
 LightGBM Ranking**
