@@ -44,3 +44,5 @@ Catboost Ranking
 LightGBM Ranking**
 
 ## Apriori Algorithm from scratch in Python
+
+## Decision Tree from Scratch in Python
