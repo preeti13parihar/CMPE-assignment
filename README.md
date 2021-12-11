@@ -63,3 +63,15 @@ A decision tree combines some decisions, whereas a random forest combines severa
 ## AdaBoost algorithm from scratch
 
 AdaBoost algorithm, short for Adaptive Boosting, is a Boosting technique used as an Ensemble Method in Machine Learning. It is called Adaptive Boosting as the weights are re-assigned to each instance, with higher weights assigned to incorrectly classified instances. Boosting is used to reduce bias as well as variance for supervised learning. It works on the principle of learners growing sequentially. Except for the first, each subsequent learner is grown from previously grown learners. In simple words, weak learners are converted into strong ones. The AdaBoost algorithm works on the same principle as boosting with a slight difference.
+
+## Shortcomings Of Apriori Algorithm
+
+Using Apriori needs a generation of candidate itemsets. These itemsets may be large in number if the itemset in the database is huge.
+Apriori needs multiple scans of the database to check the support of each itemset generated and this leads to high costs.
+These shortcomings can be overcome using the FP growth algorithm.
+
+## Frequent Pattern Growth Algorithm from Scratch
+
+This algorithm is an improvement to the Apriori method. A frequent pattern is generated without the need for candidate generation. FP growth algorithm represents the database in the form of a tree called a frequent pattern tree or FP tree.
+
+This tree structure will maintain the association between the itemsets. The database is fragmented using one frequent item. This fragmented part is called “pattern fragment”. The itemsets of these fragmented patterns are analyzed. Thus with this method, the search for frequent itemsets is reduced comparatively.
