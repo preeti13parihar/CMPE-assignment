@@ -23,3 +23,22 @@ Hierarchical: Since it considers each point as a cluster on its own and then com
 Gaussian Mixture Model: GMM uses soft-clustering and hence has overlapping clusters.It calculates the probability of a point belonging to each cluster and hence is more likely to give better clustering. It gives clustering similar to K-means but with some overlapping points.
 
 DBSCAN: DBSCAN fits the model on the training dataset and predicts a cluster for each example in the dataset. A scatter plot is then created with points colored by their assigned cluster.
+
+## Gradient Boost Methods:
+
+**Objective**: Demonstrate Gradient Boost Methods With Proper Results And Visualizations
+**Showcase GBM Classifier Techniques**
+**RandomForest Classifier
+Decision Tree Classifier
+AdaBoost Classifier
+XGBoost Classifier
+LightGBM Classifier
+Catboost Classifier
+Showcase GBM Regression Techniques
+XGBoostRegressor
+CatboostRegressor
+LightGBMRegressor
+Showcase GBM Ranking Techniques
+XGBoost Ranking
+Catboost Ranking
+LightGBM Ranking**
