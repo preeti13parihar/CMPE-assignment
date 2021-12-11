@@ -4,6 +4,8 @@
 
 **Kmeans from scratch**
 
+![](a.png)
+
 **Dataset - Yelp Restaurants**
 
 About - From the Business Objects, I tried to find food related areas in Portland city. These are characterized by closeness and similarity of restaurants. Used the "longitude" and "latitude" to cluster closeness. Used "categories" to cluster for similarity.
