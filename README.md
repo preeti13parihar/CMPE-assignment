@@ -42,3 +42,5 @@ Showcase GBM Ranking Techniques
 XGBoost Ranking
 Catboost Ranking
 LightGBM Ranking**
+
+## Apriori Algorithm from scratch in Python
