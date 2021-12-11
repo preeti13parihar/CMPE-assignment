@@ -38,6 +38,12 @@ Gradient boosting performs well, if not the best, on a wide range of tabular dat
 
 Demonstrated Gradient Boost Methods With Proper Results And Visualizations
 
+![](c.png)
+
+![](d.png)
+
+![](e.png)
+
 **Showcase GBM Classifier Techniques**
 
 RandomForest Classifier
