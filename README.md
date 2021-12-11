@@ -79,6 +79,8 @@ Random forests or random decision forests are an ensemble learning method for cl
 
 ## Random Foreset vs Decision Tree
 
+![](f.jpeg)
+
 A decision tree combines some decisions, whereas a random forest combines several decision trees. Thus, it is a long process, yet slow. Whereas, a decision tree is fast and operates easily on large data sets, especially the linear one. The random forest model needs rigorous training.
 
 ## AdaBoost algorithm from scratch
